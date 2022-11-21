@@ -1,1 +1,1 @@
-# tip-gen
+# data-structures-algo-py
